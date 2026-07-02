@@ -4,9 +4,6 @@
 
 This project contains the working materials for the CAD department status tracker, including Excel workbook exports, Python/PowerShell helper scripts, and the Office Script prototype.
 
-The live production workbook is stored outside this Codex workspace:
-
-`C:\Users\User\Desktop\All\CAD Status\CAD_Status_Tracker_Batch_Aware_MANAGER_VIEW_LIVE_FORMULAS.xlsm`
 
 ## Folder Structure
 
